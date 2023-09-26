@@ -1,5 +1,5 @@
 # Auto batch process for Agisoft Metashape
-# Following SfM Workflow, updated scripts for Jan 2023, ASRAMP model processing
+# Following SfM Workflow, updated scripts for 2023 ASRAMP model processing
 #
 # F. Lichowski, 2023/09/25
 ################################################################################################
